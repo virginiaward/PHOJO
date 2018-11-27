@@ -1,0 +1,37 @@
+h1{
+	font-family: 'Muli', Helvetica, sans-serif;
+	font-size: 2.25em;
+}
+
+#nav {
+  padding: 0;
+	list-style-type: none;
+	margin-top: 0;
+	margin-bottom: 0;
+}
+
+#nav ul {
+    margin: 0;
+    padding: 0;
+		border-bottom: 1px solid black;
+		text-decoration: none;
+}
+
+#nav a:link, a:visited {
+	display:block;
+    color: #ffffff;
+    background-color:black;
+    font-weight: lighter;
+    text-align:center;
+    text-decoration: none;
+    padding: 10px;
+    font-family: 'Muli', Helvetica, sans-serif;
+}
+
+#nav a:hover, a:active {
+    background-color: #949399;
+}
+
+.flex-container{
+	text-decoration: none;
+}
