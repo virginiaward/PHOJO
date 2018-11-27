@@ -32,6 +32,8 @@ h1{
     background-color: #949399;
 }
 
-.flex-container{
-	text-decoration: none;
+.background{
+	margin-left:50px;
+	margin-right: 50px;
+	text-align: justify;
 }
