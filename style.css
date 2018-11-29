@@ -8,6 +8,7 @@ h1{
 	list-style-type: none;
 	margin-top: 0;
 	margin-bottom: 0;
+	width:100%;
 }
 
 #nav ul {
@@ -15,10 +16,12 @@ h1{
     padding: 0;
 		border-bottom: 1px solid black;
 		text-decoration: none;
+		width:800px;
 }
 
 #nav a:link, a:visited {
-	display:block;
+		display:block;
+		float:left;
     color: #ffffff;
     background-color:black;
     font-weight: lighter;
@@ -36,4 +39,9 @@ h1{
 	margin-left:50px;
 	margin-right: 50px;
 	text-align: justify;
+}
+
+h2{
+	padding-top: 20px;
+	font-family: 'Muli', Helvetica, sans-serif;
 }
