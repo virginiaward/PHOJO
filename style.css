@@ -16,7 +16,7 @@ h1{
     padding: 0;
 		border-bottom: 1px solid black;
 		text-decoration: none;
-		width:800px;
+		width:100%;
 }
 
 #nav a:link, a:visited {
@@ -39,9 +39,27 @@ h1{
 	margin-left:50px;
 	margin-right: 50px;
 	text-align: justify;
+	padding-top: 25px;
 }
 
 h2{
 	padding-top: 20px;
 	font-family: 'Muli', Helvetica, sans-serif;
+}
+
+.info{
+	text-align: left;
+	padding-left: 50px;
+	padding-right: 50px;
+	padding-bottom: 20px;
+}
+
+footer{
+	font-style: italic;
+	background-color: black;
+	color: white;
+	text-align: center;
+	font-size: 1em;
+	padding-top: 5px;
+	padding-bottom: 5px;
 }
