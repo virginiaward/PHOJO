@@ -21,7 +21,7 @@ h1{
     padding: 0;
 		border-bottom: 1px solid black;
 		text-decoration: none;
-		width:100%;
+		width: 100%;
 }
 
 #nav a:link, a:visited {
@@ -34,8 +34,6 @@ h1{
     padding: 10px;
     font-family: 'Muli', Helvetica, sans-serif;
 		width: 100%;
-
-
 }
 
 #nav a:hover, a:active {
